@@ -1,6 +1,7 @@
 # :bookmark: Curso-Trilha-NodeJS-Rocketseat
 
 :label: Tecnologia Principal: Typescript
+<br> :bricks: Framework: Fastify
 <br> :luggage: Banco de Dados: SQLite
 <br> :page_facing_up: Padronização: ESLint
 <br> :book: Documentação: <a href='https://www.figma.com/design/4S2uR1zvqbiT9ml8hSyaXl/NLW-Journey---Planejador-de-viagem?t=AjT8ZKsDrWOZgL8w-0'> Figma </a> e <a href='https://api.postman.com/collections/10550152-3854079d-6206-4dbd-b5e6-5cffd280d07e?access_key=PMAT-01J2Q5ZT3EB8JRM2TEKHD2SPWX'> Postman
